@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\.github",
-    "\\_posts",
-    "\\_tabs"
+    "\\.github\\workflows"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\.github\\workflows\\pages-deploy.yml",
   "PreviewInSolutionExplorer": false
 }
